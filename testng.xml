@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="MayaNextTest" parallel="classes" verbose="1">
+
+
+    <test name="APIService">
+        <classes>
+            <class name="Scenario"/>
+        </classes>
+    </test>
+
+</suite>
