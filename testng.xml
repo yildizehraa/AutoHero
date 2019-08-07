@@ -3,7 +3,7 @@
 <suite thread-count="1" name="MayaNextTest" parallel="classes" verbose="1">
 
 
-    <test name="APIService">
+    <test name="AutoHero">
         <classes>
             <class name="Scenario"/>
         </classes>
